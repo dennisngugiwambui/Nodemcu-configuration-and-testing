@@ -17,8 +17,8 @@
 
 ~if you already have the ESP32 boards URL, you can separate the URLs with a comma, as follows:
 
-```http://arduino.esp8266.com/stable/package_esp8266com_index.json,
-https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json```
+```http://arduino.esp8266.com/stable/package_esp8266com_index.json,```
+```https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json```
 
 3. Open the Boards Manager. You can go to Tools > Board > Boards Manager… or you can simply click the Boards Manager icon in the left-side corner.
 
