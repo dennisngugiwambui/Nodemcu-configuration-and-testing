@@ -45,3 +45,14 @@ void loop(){
 }
 
 ```
+
+
+# The output should look this way
+
+![WhatsApp Image 2024-03-13 at 4 19 49 AM (1)](https://github.com/dennisngugiwambui/Nodemcu-configuration-and-testing/assets/112067611/2ed11c1a-be20-493d-bf64-5c5a8940f0bc)
+
+![WhatsApp Image 2024-03-13 at 4 19 49 AM](https://github.com/dennisngugiwambui/Nodemcu-configuration-and-testing/assets/112067611/f7146970-03cc-4df4-86ba-f2c528782067)
+
+![WhatsApp Image 2024-03-13 at 4 19 37 AM](https://github.com/dennisngugiwambui/Nodemcu-configuration-and-testing/assets/112067611/c3918e25-09b6-4ad1-8be9-85f1a8231094)
+
+
