@@ -56,3 +56,11 @@ void loop(){
 ![WhatsApp Image 2024-03-13 at 4 19 37 AM](https://github.com/dennisngugiwambui/Nodemcu-configuration-and-testing/assets/112067611/c3918e25-09b6-4ad1-8be9-85f1a8231094)
 
 
+
+# You should also understand the GPIO pins of the esp8266 which are as follows
+
+![image](https://github.com/dennisngugiwambui/Nodemcu-configuration-and-testing/assets/112067611/e3b166b2-5acb-470a-969e-774aa76d6b17)
+
+
+
+
