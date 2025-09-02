@@ -2,6 +2,7 @@
 
 
 
+
 # Install ESP8266 NodeMCU Add-on in Arduino IDE 2.
 
 1. In the Arduino IDE 2, go to File > Preferences.
