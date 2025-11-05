@@ -1,6 +1,5 @@
 
 
-
 # Nodemcu-configuration-and-testing.
 
 
