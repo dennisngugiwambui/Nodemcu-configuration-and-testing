@@ -6,7 +6,6 @@
 
 
 
-
 # Nodemcu-configuration-and-testing.
 
 
